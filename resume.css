@@ -111,3 +111,8 @@ h1 {
     text-transform: uppercase;
     font-weight: 900 !important;
 }
+
+.intro {
+    background: #f5f67f;
+  width: 50%;
+}
