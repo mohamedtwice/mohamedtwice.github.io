@@ -86,7 +86,14 @@ body {
     padding: 20px;
     background: #f5f67f;
 }
-
+#experience-education {
+    padding: 20px;
+    background: #f5f6f7;
+}
+#experience-volunteer {
+    padding: 20px;
+    background: #f5f67f;
+}
 .content-header h1 {
  text-transform: uppercase;
   font-weight: 800;
