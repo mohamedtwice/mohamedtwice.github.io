@@ -79,11 +79,11 @@ body {
 }
 
 #experience-overview {
-    padding: 30px;
+    padding: 20px;
     background: #f5f6f7;
 }
 #experience-professional {
-    padding: 30px;
+    padding: 20px;
     background: #f5f67f;
 }
 
@@ -97,11 +97,11 @@ body {
 }
 
 .jumbotron {
-    background: url("mohamedresumeheader.jpg") repeat scroll center center / cover;
+    background: url("mohamedresumeheader.jpg") repeat scroll left bottom / cover;
     padding-top: 50px;
     padding-bottom: 50px;
     margin-top: -20px;
-    height: 400px;
+    height: auto;
 }
 
 
@@ -114,7 +114,7 @@ h1 {
 
 #jumbotronintro {
     background: #f5f67f !important;
-  padding: 30px;
+  padding: 20px;
   bottom: 0 !important;
 }
 
