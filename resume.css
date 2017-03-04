@@ -113,6 +113,7 @@ h1 {
 }
 
 .intro {
-    background: #f5f67f;
+    background: #f5f67f !important;
   width: 50%;
+  padding: 30px;
 }
